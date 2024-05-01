@@ -1,15 +1,9 @@
-
----
 title: Jessica Pimentel
-image: "photo_of_you.jpeg"
-links:
-  - label: Resume
-    url: "Pimentel.Addis_Resume.pdf"
-  - label: Email
-    url: "jessicapimentelx3@gmail.com"
+theme: jekyll-theme-tactile
 
-output: 
-  postcards::solana
----
+logo: /assets/img/picture_of_you.jpg
+
+
+
 
 
