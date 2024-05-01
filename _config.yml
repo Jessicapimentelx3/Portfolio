@@ -1,0 +1,15 @@
+
+---
+title: Jessica Pimentel
+image: "photo_of_you.jpeg"
+links:
+  - label: Resume
+    url: "Pimentel.Addis_Resume.pdf"
+  - label: Email
+    url: "jessicapimentelx3@gmail.com"
+
+output: 
+  postcards::solana
+---
+
+
